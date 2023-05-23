@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @GustavoMonteAzul
-- 👀 I’m interested in the Wolrd!
-- 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on Humanity's Evolution!
-- 📫 How to reach me gustavomonteazul@gmail.com
+Here the 2 Dashboards around this study can be visualized
 
-<!---
-GustavoMonteAzul/GustavoMonteAzul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----
+![Dash01](https://github.com/GustavoMonteAzul/sales_kpi_project/assets/117382343/f9f93c97-9c62-4c73-934b-a595bc3b38da)
+
+![Dash02](https://github.com/GustavoMonteAzul/sales_kpi_project/assets/117382343/9bbdfbad-5eea-4727-b9bf-d8738edf6184)
